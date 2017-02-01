@@ -1,0 +1,6 @@
+.idea
+/node_modules
+npm-debug.log
+/.c9
+.env
+mongod
